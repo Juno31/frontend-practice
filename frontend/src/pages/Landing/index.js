@@ -69,6 +69,12 @@ const source = [    // file data
                 path: '/svg/?small=circle'
             }
         ]
+    },
+    {
+        name: 'SendImg',
+        path: '/sendimg',
+        small: [
+        ]
     }
 ]
 
